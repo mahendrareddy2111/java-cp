@@ -1,0 +1,11 @@
+Problem Statement : Longest Common Subsequence
+
+Difficulty : Hard
+Category: DynamicProgramming
+
+Problem Statement: Given 2 strings , identify the longest common subsequence , the characters has to be in same order , not nessecarily
+adjacent
+
+Worst-Case :
+    Time Complexity: worst-case : O(nm)  when n and m are the length of 2 strings
+    Space Complexity:O(nm)
