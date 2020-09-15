@@ -1,0 +1,11 @@
+Problem Statement : Branch Sums
+
+Difficulty : Easy
+Category: BST
+
+Problem Statement: Given a tree, return the array with the branch sums
+
+Worst-Case :
+    Time Complexity: worst-case : O(n)  when n is the numnber nodes
+    Space Complexity:O(n)
+
