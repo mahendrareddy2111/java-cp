@@ -1,4 +1,4 @@
-package BSTConstruction;
+package algoexpert;
 
 public class BSTConstruction {
 

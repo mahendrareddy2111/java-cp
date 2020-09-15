@@ -1,4 +1,4 @@
-package BSTConstruction;
+package algoexpert;
 
 
 import org.junit.jupiter.api.Test;
