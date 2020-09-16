@@ -1,0 +1,9 @@
+Problem Statement : DiskStacking
+
+Difficulty : Hard
+Category: DynamicProgramming
+
+Problem Statement: Given a bunch of disks represented as length,width,height , create a stack with maximum height
+
+Time Complexity: worst-case : O(n^2)  when n is the number of disks
+Space Complexity:O(n)
