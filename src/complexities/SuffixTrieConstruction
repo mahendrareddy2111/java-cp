@@ -1,0 +1,14 @@
+Problem Statement : Suffix Trie construction
+
+Difficulty : Medium
+Category: Trie
+
+Problem Statement: Given a source string, construct the suffix trie, and search for a string
+
+Suffix Trie construction :
+    Time Complexity: O(n^2)  when n is the length of source string
+    Space Complexity:O(n^2)
+
+Searching a string:
+    Time Complexity: O(m) where m is the length of string to be searched.
+    Space Complexity: O(1)
