@@ -1,0 +1,11 @@
+Problem Statement : Reverse LinkedList
+
+Difficulty : Hard
+Category: LinkedList
+
+Problem Statement: Reversing a linkedlist
+
+Worst-Case :
+    Time Complexity: worst-case : O(n)  when n is the number nodes
+    Space Complexity:O(1)
+
