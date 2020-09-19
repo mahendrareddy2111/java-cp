@@ -1,0 +1,9 @@
+Problem Statement : Merging LinkedLists
+
+Difficulty : Medium
+Category: LinkedLists
+
+Problem Statement: Given 2 sorted linked lists, merge two lists keeping them sorted and inplace.
+
+Time Complexity: worst-case : O(n+m)  when n,m are the size of linked lists
+Space Complexity:O(1)
