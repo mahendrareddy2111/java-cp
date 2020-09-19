@@ -1,0 +1,11 @@
+Problem Statement : Move An Element to end
+
+Difficulty : Medium
+Category: Arrays
+
+Problem Statement: Given a list of integers and element to move , move all the elements in the list to end
+
+Worst-Case :
+    Time Complexity: worst-case : O(n)  when n is the numnber nodes
+    Space Complexity:O(1)
+
