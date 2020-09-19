@@ -1,0 +1,11 @@
+Problem Statement : MultiStringSearch
+
+Difficulty : Hard
+Category: Trie
+
+Problem Statement: Given a long string and an array of small strings, return an array with boolean value, whether the small string
+is part of the longer string
+
+Time Complexity: worst-case : O(b^2+ns)  when b is the length of the longer string and n is the number of small string and
+s is the lenght of longest small string.
+Space Complexity:O(b^2 + n)
