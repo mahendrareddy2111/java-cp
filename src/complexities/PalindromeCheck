@@ -1,0 +1,11 @@
+Problem Statement : Palindrome Check
+
+Difficulty : Easy
+Category: Strings
+
+Problem Statement: Given a string , check whether the string is palindrome or not.
+
+Worst-Case :
+    Time Complexity: worst-case : O(n)  when n is the number nodes
+    Space Complexity:O(1)
+
