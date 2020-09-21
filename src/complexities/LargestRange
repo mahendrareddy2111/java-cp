@@ -1,0 +1,11 @@
+Problem Statement : Largest Range
+
+Difficulty : Hard
+Category: Arrays
+
+Problem Statement: Given an array , return the start and end number in the largest range integers in the array
+
+Worst-Case :
+    Time Complexity: worst-case : O(n)  when n is the number of elements in the array
+    Space Complexity:O(n)
+
