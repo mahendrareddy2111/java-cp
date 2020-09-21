@@ -1,0 +1,11 @@
+Problem Statement : Three Number Sum
+
+Difficulty : Medium
+Category: Arrays
+
+Problem Statement: Given an array, return an array with 3 numbers who sum is equal to target sum.
+
+Worst-Case :
+    Time Complexity: worst-case : O(n^2)  when n is the size of input
+    Space Complexity:O(n)
+
