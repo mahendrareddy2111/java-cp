@@ -6,6 +6,6 @@ Category: BST
 Problem Statement: Given a tree, return the array with the branch sums
 
 Worst-Case :
-    Time Complexity: worst-case : O(n)  when n is the numnber nodes
+    Time Complexity: worst-case : O(n)  when n is the number nodes
     Space Complexity:O(n)
 
