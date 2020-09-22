@@ -1,0 +1,11 @@
+Problem Statement : Node Depths
+
+Difficulty : Easy
+Category: BST
+
+Problem Statement: Given a tree, return the sum of depth of all node
+
+Worst-Case :
+    Time Complexity: O(n)  when n is the number nodes
+    Space Complexity:O(h) h is hte height of the tree.
+
