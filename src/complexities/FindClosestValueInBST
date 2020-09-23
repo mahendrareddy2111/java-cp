@@ -1,0 +1,11 @@
+Problem Statement : Find Closest Value in BST
+
+Difficulty : Easy
+Category: BST
+
+Problem Statement: Given a tree, return the closest value in the tree to a target
+
+Worst-Case :
+    Time Complexity: worst-case : O(log(n))  when n is the number nodes
+    Space Complexity:O(1)
+
