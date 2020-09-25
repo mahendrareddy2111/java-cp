@@ -1,0 +1,12 @@
+Problem Statement : Smallest Substring containing
+
+Difficulty : Medium
+Category: String
+
+Problem Statement: Given a bigger string and smaller string, find the smallest substring in the big string with all characters
+in smaller string.
+
+Worst-Case :
+    Time Complexity: worst-case : O(b+s)  when b & s are length of bigger and smaller strings.
+    Space Complexity:O(b+s)
+
