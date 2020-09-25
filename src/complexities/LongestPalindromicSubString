@@ -1,0 +1,11 @@
+Problem Statement : Longest Palindromic substring
+
+Difficulty : Medium
+Category: String
+
+Problem Statement: Find longest palindromic substring in a given string
+
+Worst-Case :
+    Time Complexity: O(n^2)  when n is the length of the string
+    Space Complexity:O(n)
+
