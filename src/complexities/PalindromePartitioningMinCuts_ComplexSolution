@@ -1,0 +1,11 @@
+Problem Statement : Palindrome Partitioning min cuts complex solution
+
+Difficulty : Hard
+Category: Dynamic Programming
+
+Problem Statement: Given a string , min number of cuts needed to make the substring to be palindromes
+
+Worst-Case :
+    Time Complexity:  O(n^3)  when n is the length of the string
+    Space Complexity:O(n^2)
+
