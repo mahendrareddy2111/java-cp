@@ -1,0 +1,11 @@
+Problem Statement : Find three largest numbers in an array
+
+Difficulty : Easy
+Category: Searching
+
+Problem Statement: Given an integer array , return the three largest numbers
+
+Worst-Case :
+    Time Complexity: O(n)  when n is the length of the array
+    Space Complexity:O(1)
+
