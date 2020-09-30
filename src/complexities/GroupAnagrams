@@ -1,0 +1,8 @@
+Problem Statement : Group Anagrams
+
+Difficulty : Medium
+Category: String
+
+Problem Statement: Given an array of strings , return the list of list of string with the grouping of anagrams
+Time Complexity: worst-case : O(w * n * log(n))  when w is the number of words and n is the length of the longest string.
+Space Complexity:O(wn) where w is the number of words and n is the length of the longest word
