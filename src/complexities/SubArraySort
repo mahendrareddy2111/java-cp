@@ -1,0 +1,12 @@
+Problem Statement : Sub array sort
+
+Difficulty : Hard
+Category: Arrays
+
+Problem Statement: Given an array , find the start and end index of shortest sub array , which needs to be sorted
+to make the whole array sorted.
+
+Worst-Case :
+    Time Complexity:  O(n)  when n is the length of the array.
+    Space Complexity:O(1)
+
