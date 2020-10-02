@@ -1,0 +1,11 @@
+Problem Statement : Remove kth node from end
+
+Difficulty : medium
+Category: LinkedList
+
+Problem Statement: Remove kth node from end
+
+Worst-Case :
+    Time Complexity:  O(n)  when n is the number nodes
+    Space Complexity:O(1)
+
