@@ -1,0 +1,9 @@
+Problem Statement : BalancedBrackets
+
+Difficulty : Medium
+Category: Stack
+
+Problem Statement: Given a string with ( , { , [ and closing brackets , return if the string is balanced or not
+
+Time Complexity: worst-case : O(n)  when n is the string length.
+Space Complexity:O(n)
