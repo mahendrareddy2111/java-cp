@@ -1,0 +1,8 @@
+Problem Statement : Selection Sort
+
+Difficulty : Easy
+Category: BST
+
+Time Complexity:  O(n^2)  when n is the number of elements in the array
+Space Complexity:O(1)
+
