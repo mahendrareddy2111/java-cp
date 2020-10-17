@@ -1,0 +1,11 @@
+Problem Statement : Quick Sort
+
+Difficulty : Medium
+Category: Sorting
+
+Time Complexity:
+Worst Case : O(n^2)  when n is the number of elements in the array
+Average Case : O(nlog(n))
+Best case: O(nlog(n))
+Space Complexity:O(log(n))
+
