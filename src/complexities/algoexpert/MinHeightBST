@@ -1,0 +1,11 @@
+Problem Statement : Min Height BST
+
+Difficulty : Medium
+Category: BST
+
+Problem Statement: Given an array of sorted numbers, return min height bst.
+
+Worst-Case :
+    Time Complexity:O(n)  when n length of the array
+    Space Complexity:O(n)
+
